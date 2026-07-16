@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/trial-14_days-96785E?style=flat-square" alt="14 day trial" />
 </p>
 
+
+> **Canonical company home:** [`Rarefied-Earth/groundwork`](https://github.com/Rarefied-Earth/groundwork). This personal mirror exists so the product can be pinned on [@saltymaverick](https://github.com/saltymaverick). Prefer the org repo for stars, issues, and links.
+
 ---
 
 ## Groundwork and Build the Company are the same system
@@ -159,7 +162,7 @@ Company: [rarefied.earth](https://rarefied.earth) · Org: [github.com/Rarefied-E
     └── MAINTENANCE.md        ← keep docs in sync with modules.json
 ```
 
-Canonical company org mirror: [Rarefied-Earth/groundwork](https://github.com/Rarefied-Earth/groundwork)
+**Canonical home:** [Rarefied-Earth/groundwork](https://github.com/Rarefied-Earth/groundwork) (prefer this for public links)
 
 ---
 
